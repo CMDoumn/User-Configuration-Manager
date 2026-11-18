@@ -1,6 +1,6 @@
 This is the first certification project in the [Python Certification Course](https://www.freecodecamp.org/learn/python-v9) on freeCodeCamp. 
 
-Project Instructions:
+**bold text**Project Instructions:**bold text**   
 
 You should define a function named add_setting with two parameters representing a dictionary of settings and a tuple containing a key-value pair.
 
